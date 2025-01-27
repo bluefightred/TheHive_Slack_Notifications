@@ -4,6 +4,7 @@ An integration script for TheHive webhook to publish notifications to Slack Chan
 
 # Installations and Configurations Overview
 
+## 1. Preparation
 ### 1.1 Components
 - My existing SOC build consist of a VM running TheHive, Cortex, MISP, and all supporting software and Databases using Docker-Compose. So it is logical that this integration code is also running as part of the Docker-compose construct.
 - TheHive's built-in webhook sender
