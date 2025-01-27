@@ -1,6 +1,6 @@
 # TheHive-Slack Webhook Integration Installation Guide
 
-An integration script for TheHive webhook to publish notifications to Slack Channels including mobile which can be handy.
+An integration script for TheHive webhook to publish notifications to Slack Channels, such as mobile which can be handy.
 
 # Installations and Configurations Overview
 
