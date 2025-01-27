@@ -147,9 +147,13 @@ Once the notification channel is created, set up the notification filter to suit
 ```
 <img src="https://github.com/bluefightred/TheHive_Slack_Notifications/blob/main/image/Pasted%20image%2020241126204151.png" alt="Sample Image" style="width:30%; height:auto;">
 
+## Sample screen shot of Slack Notification on Mobile
+
+<img src="https://github.com/bluefightred/TheHive_Slack_Notifications/blob/main/image/IMG_2545.PNG" alt="Sample Image" style="width:30%; height:auto;">
+
 # Contributors
 
-This TheHive Slack code is forked from [ReconInfoSec thehive-slack-webhook]([url](https://github.com/ReconInfoSec/thehive-slack-webhook)). Huge thanks to ReconInfoSec.
+This TheHive Slack code is forked from ReconInfoSec/thehive-slack-webhook. Huge thanks to ReconInfoSec.
 
 
 
