@@ -125,6 +125,9 @@ http://soc_webhook_1:5000/webhook
 - soc_webhook_1 is the docker name
 - default webhook port number is 5000
 
+https://github.com/bluefightred/TheHive_Slack_Notifications/blob/main/Pasted%20image%2020241126204115.png
+
+
 Once the notification channel is created, set up the notification filter to suit your use case. Reference as follows
 ```
 {
