@@ -115,7 +115,7 @@ colors = {
 - Keep all alerts in Slack channel
 - Configure notification preferences in Slack app
 
-### 6.4 TheHive notifications settings
+### 6.3 TheHive notifications settings
 
 TheHive offers two liscences; The free version has one webhook function built-in. This is what we are leveraging to turn this into a slack notiifcation channel.
 In the TheHive menu, enable the webhook function and configure the URL/Token as follows:
